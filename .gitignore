@@ -1,0 +1,12 @@
+# 构建产物
+dist/
+*.vpk
+buildtest*/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+Thumbs.db
+.DS_Store

@@ -1,0 +1,15 @@
+# 许可（License）
+
+本补丁为 **AutoPlugin II**（作者 TheHeroeGAC，设计 Gdljjrod / DevDavisNunez）的衍生作品。
+上游 `script.lua` 头部声明其遵循 **Creative Commons Attribution-ShareAlike 4.0（CC BY-SA 4.0）**，
+因此本项目同样以 **CC BY-SA 4.0** 发布：
+
+<https://creativecommons.org/licenses/by-sa/4.0/>
+
+要点：
+
+- 允许复制、分发、修改，包括商业使用；
+- 必须署名原作者，并标明是否作了修改；
+- 衍生作品须以相同许可（CC BY-SA 4.0）分发。
+
+原始程序版权归其原作者所有。本仓库仅包含为适配国内网络环境所作的补丁部分。
