@@ -4,7 +4,7 @@
 
 - 上游项目（Upstream）：AutoPlugin II 2.20，作者 TheHeroeGAC / ONElua
 - 补丁版本：v2（2026-11-24）
-- 安装包：见 [Releases](../../releases) 中的 `AutoPlugin2_2.20_CN_v2.vpk`
+- 安装包：见 [Releases](https://github.com/Moyxi-Team/AutoPlugin2-CN/releases) 中的 `AutoPlugin2_2.20_CN_v2.vpk`
 
 > 本项目仅为网络层补丁，不含对 AP2 功能逻辑的改动，不收集任何数据。
 
